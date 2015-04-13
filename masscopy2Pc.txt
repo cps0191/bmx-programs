@@ -1,0 +1,7 @@
+Masscopy2Pc.zip	The PC version
+An application that copies multiple files from multiple folders giving them a common prefix and
+numbering system, thenn placing them in a folder of your choice.
+ie      mymusic7.mp3    atune 76.mp3    manicsnumber7.mp3    could be copied to
+     trk-24.mp3     trk-25.mp3     trk-26.mp3    into a folder of your choice.
+A limit of 2000 is set on the number that can be copied in one pass
+PC version. Tested under XP and Vista

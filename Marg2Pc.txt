@@ -1,0 +1,3 @@
+Marg2Pc.zip	The PC version
+A 3 or 4 player score card for the Marhjong game.
+PC version. Tested under XP and Vista
