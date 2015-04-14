@@ -1,0 +1,6 @@
+Marg2Pc.bmx Tested on XP and Vista.
+Marg2Mac.bmx tested on Snow Leopard
+
+A 3 or 4 player score card for the game Marhjong, lets you play without scoring sticks or bits of paper.
+Both versions are avaliable in a compiled and compressed form in the relavent  'win-prog' and ' mac-progs'
+repositries.

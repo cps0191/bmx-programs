@@ -1,0 +1,9 @@
+Railb2Pc.bmx Tested on XP and Vista.
+Railb2Mac.bmx tested on Snow Leopard
+
+A computerised version of the Rail Baron payment chart. Simply select start area/town
+and destination area/town and the payment due will be shown.
+Note : The two data files 'names.dat' and 'pays.dat' must be in the same folder that you
+place the application file in.
+Both versions are avaliable in a compiled and compressed form in the relavent  'win-prog' and ' mac-progs'
+repositries. The compressed file contains the data files and the compiled application.

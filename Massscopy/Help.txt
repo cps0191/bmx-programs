@@ -1,0 +1,18 @@
+Masscopy2Pc.bmx Tested on XP and Vista.
+Masscopy2Mac.bmx tested on Snow Leopard
+
+An application to allow multiple files from multiple locations with common extensions, to be copied to
+a folder of your choice with a name and numbering system of your choice.
+
+i.e. you have the files;
+
+Mymusic072.mp3      atune45.mp3      joestrummer74.mp3      themanics01.mp3     in various folders.
+
+You could give them the prefix Trk- and a numbering sequence starting at 20, this would produce the files
+
+Trk-20.mp3   Trk-21.mp3  Trk-22.mp3  Trk-23.mp3 in a folder of your choice.
+
+Handy or what, may be 'or what' but I've found it usefull for large numbers of images and mp3 mixes.
+I've set a limit of 2000 on the number of copies it will make in one pass.
+Both versions are avaliable in a compiled and compressed form in the relavent  'win-prog' and ' mac-progs'
+repositries.
