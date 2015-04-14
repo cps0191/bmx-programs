@@ -1,6 +1,0 @@
-rail2Pc.zip		The PC version
-A computerised version of the Rail Baron payout chart.
-Provide the start area/town and the destination area/town and the payment due is displayed.
-Note The two data files,   PAYS.DAT and NAMES.DAT must be in the same folder that you run the
-application in.
-PC version. Tested under XP and Vista
