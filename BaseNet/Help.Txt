@@ -1,4 +1,4 @@
 BNetV1d0Pc.BMX is a GUI implimentation of the GNET networking system tested on  Vista and XP only.
 This is intended as a framework for internet/networked games and uses the GNET lobby to
-advertise the game you are hosting.
+advertise the game you are hosting, hence you will need an internet conection to use this program.
 It includes a basic one line chat routine and a player group you can add prefered players to.
