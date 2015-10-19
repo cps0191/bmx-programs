@@ -1,0 +1,9 @@
+Programs writen in blitz max for windows and mac, enjoy.
+
+Marg A 3 or 4 player score card for the game Marhjong. (Mac or Pc)
+RailB A payment chart for the game Rail Baron. (Mac or Pc)
+MassCopy A system for copying multiple files to a single folder. (Mac or Pc)
+BaseNet A GUI implimentation of a GNET framework for games. (Pc only)
+VikV1d0Pc The viking game writen using Basenet. (Pc only)
+Basenet2 A GUI implimentation of a GNET framework with error trapping on the comunications to deal with drop out. (Pc only)
+VikV2d0Pc The Viking game writen using Basenet2. (Pc only)
