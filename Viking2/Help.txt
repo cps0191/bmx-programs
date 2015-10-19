@@ -1,0 +1,4 @@
+Vikv2d0Pc.bmx Is a version of the Viking Game using Basenet (bsnv2doPc.bmx) I've tested this on Vista and XP
+over an internet connected network. If you want to play this over the internet please check that you have
+port forwarding enabled on the port the game uses. NB I have not tweeked this for a Mac yet.
+Viking V1 can not be used to play Viking V2 as the two networking systems are diffrent.
