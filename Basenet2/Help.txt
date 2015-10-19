@@ -1,4 +1,4 @@
-BNetv2d0Pc.BMX is a GUI implimentation of the GNET networking system tested on  Vista and XP only.
+bsnv2d0Pc.BMX is a GUI implimentation of the GNET networking system tested on  Vista and XP only.
 Version 2 differs from version 1 as it includes feedback so that a game message sent is confirmed
 and if not recived repeated, hopefully this will get round any drop out in the coms cycle.
 This is intended as a framework for internet/networked games and uses the GNET lobby to 
