@@ -8,4 +8,7 @@ BaseNet  A GUI implimentation of a GNET framework for games
 VikV1d0Pc The viking game writen using Basenet.
 Basenet2 A GUI implimentation of a GNET framework with error trapping on the comunications to deal with drop out.
 VikV2d0Pc The Viking game writen using Basenet2.
+Basenet3 A GUI implimentation of a GNET framework with error trapping and port settings for port forwarding.
+VikV3d0Pc The Viking game writen using Basenet3.
+TriTacdoPc The game of Tri Tactics writen using Basxenet3.
 BaseNet4 Final version, for NET/Lan multiplayer games. Supporting both Mac and Pc.
