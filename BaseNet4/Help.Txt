@@ -1,0 +1,7 @@
+This is intended as a multiplayer framework for gameplay over the internet or gameplay
+on a LAN with an internet connection (it uses the GNET Lobby to advertise the sesion)
+This version is suitable for Windows or MAC
+Tested on XP, Vista and W10. Tested on Mac 10.6 (mountainlion, snowleaopard)
+This version allows for port forwarding, with adjustable port numbers.
+This is intended as a multiplayer framework for gameplay over the internet or gameplay
+on a LAN with an internet connection (it uses the GNET Lobby to advertise the sesion)
