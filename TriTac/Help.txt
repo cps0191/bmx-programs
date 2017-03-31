@@ -3,3 +3,4 @@ over an internet connected network. If you want to play this over the internet p
 port forwarding enabled on the port the game uses. NB I have not tweeked this for a Mac yet.
 The file is in zip form (compressed) as there are graphic and data files that are needed to play the game.
 Just unzip to a folder of your choice.
+Tripic.jpg is a screen shot of the game in progress
