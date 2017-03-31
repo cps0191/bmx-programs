@@ -1,0 +1,5 @@
+TriTac.bmx Is a version of the Tri Tactics game using Basenet (bsnv3doPc.bmx) I've tested this on XP, Vista and W10
+over an internet connected network. If you want to play this over the internet please check that you have
+port forwarding enabled on the port the game uses. NB I have not tweeked this for a Mac yet.
+The file is in zip form (compressed) as there are graphic and data files that are needed to play the game.
+Just unzip to a folder of your choice.
