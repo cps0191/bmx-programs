@@ -1,0 +1,9 @@
+This is intended as a multiplayer framework for gameplay over the internet or gameplay
+on a LAN with an internet connection (it uses the GNET Lobby to advertise the sesion)
+This version is suitable for Windows only
+Tested on XP, Vista and W10.
+This version allows for port forwarding, with adjustable port numbers.
+This is intended as a multiplayer framework for gameplay over the internet or gameplay
+on a LAN with an internet connection (it uses the GNET Lobby to advertise the sesion)
+It comes with a single line chat programme and player list.
+Both TriTac and Viking3 use this for network functions.
