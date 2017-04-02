@@ -1,5 +1,5 @@
 .# bmx-programs
-Programs writen in blitz max for windows and mac, enjoy.
+Programs writen in blitz max for windows and mac, compiled ziped versions in the windows and mac repositories. Enjoy !!.
 
 Marg		A 3 or 4 player score card for the game Marhjong.
 RailB		A payment chart for the game Rail Baron.
@@ -11,4 +11,4 @@ VikV2d0Pc The Viking game writen using Basenet2.
 Basenet3 A GUI implimentation of a GNET framework with error trapping and port settings for port forwarding.
 VikV3d0Pc The Viking game writen using Basenet3.
 TriTac The game of Tri Tactics writen using Basxenet3. In zipped form containg graphics and data needed for the game.
-BaseNet4 Final version, for NET/Lan multiplayer games. Supporting both Mac and Pc
+BaseNet4 Final version, for NET/Lan multiplayer games. Supporting both Mac and Pc.
