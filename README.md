@@ -1,5 +1,5 @@
-.# bmx-programs
-Programs in blitz max for windows and mac, compiled versions in the windows and mac repositories. Enjoy !!.
+# bmx-programs
+Programs in blitz max for windows and mac, compiled versions in the windows and mac repositories. Enjoy!
 
 Marg		A 3 or 4 player score card for the game Marhjong.
 RailB		A payment chart for the game Rail Baron.
