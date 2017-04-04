@@ -3,4 +3,3 @@ This is played by two people using a LAN or INTERNET conection, both parties mus
 as it uses the GNET lobby to advertise the session. If you want to play this over the internet please check
 that you have port forwarding enabled on the port the game uses. NB I have not tweeked this for a Mac yet.
 Viking V1 and Viking V2 can not be used to play Viking V3 as the networking systems are diffrent.
-Vik1.jpg is a screenshot and is not needed for the game.
