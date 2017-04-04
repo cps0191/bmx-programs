@@ -1,0 +1,5 @@
+TriTac.bmx Is a version of the Tri Tactics game using Basenet (bsnv3doPc.bmx) I've tested this on XP, Vista and W10
+This is intended for two players/computers conected via a LAN or the INTERNET. They both need an internet conection
+as this uses the GNET lobby to advertise the session. If you want to play this over the internet please check that
+you have port forwarding enabled on the port the game uses. NB I have not tweeked this for a Mac yet.
+Tripic.jpg is a screen shot of the game in progress
